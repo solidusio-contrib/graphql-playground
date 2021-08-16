@@ -1,0 +1,16 @@
+{
+  "name": "solidemo-graphql-playground",
+  "version": "1.0.0",
+  "description": "GraphQL playground for http://demo.solidus.io",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Solidus team (https://github.com/solidusio/solidus)",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "altair-express-middleware": "^4.0.8",
+    "express": "^4.17.1"
+  }
+}
